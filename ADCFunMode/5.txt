@@ -1,0 +1,32 @@
+Team Name:	Sugoi Team
+	1-Top:		Poppy
+	2-Jungl:	Akali
+	3-Mid:		Mundo
+	4-Adc:		Cho'gat
+	5-Supp:		KenenToppa
+
+
+Team Name:	Sugus Team
+	1-Top:		Diana
+	2-Jungl:	Galio
+	3-Mid:		Anie
+	4-Adc:		Malozohar
+	5-Supp:		Ashe
+
+
+Team Name:	Sandia Team
+	1-Top:		Nunú
+	2-Jungl:	LucasToppaGurenLaggan
+	3-Mid:		FidelCastro
+	4-Adc:		Varus
+	5-Supp:		Blitz
+
+
+Team Name:	Patata Team
+	1-Top:		Shivana
+	2-Jungl:	Oriana
+	3-Mid:		Regeton
+	4-Adc:		Sivir
+	5-Supp:		Kanssadin
+
+

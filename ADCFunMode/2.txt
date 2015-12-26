@@ -1,0 +1,32 @@
+Team Name:	Sugoi Team
+	1-Top:		Drogas
+	2-Jungl:	Bollobear
+	3-Mid:		Beigar
+	4-Adc:		GetReksai
+	5-Supp:		Eko
+
+
+Team Name:	Sugus Team
+	1-Top:		Wukong
+	2-Jungl:	Zorraka
+	3-Mid:		YouCantKillZilean
+	4-Adc:		Tresh
+	5-Supp:		BeterNerfIrelia
+
+
+Team Name:	Sandia Team
+	1-Top:		Cuadrarina
+	2-Jungl:	GP
+	3-Mid:		Bardo
+	4-Adc:		Ziggs
+	5-Supp:		Viktor
+
+
+Team Name:	Patata Team
+	1-Top:		FidelCastro
+	2-Jungl:	Valdomir
+	3-Mid:		Sivir
+	4-Adc:		OhDarm
+	5-Supp:		Vaine
+
+

@@ -1,0 +1,32 @@
+Team Name:	Sugoi Team
+	1-Top:		Nidaluis
+	2-Jungl:	Tresh
+	3-Mid:		Nazus
+	4-Adc:		RekSona
+	5-Supp:		Ramúúus
+
+
+Team Name:	Sugus Team
+	1-Top:		YouCantKillZilean
+	2-Jungl:	Sindra
+	3-Mid:		Zorraka
+	4-Adc:		Atrox
+	5-Supp:		Lisandra
+
+
+Team Name:	Sandia Team
+	1-Top:		JonaCondosPistolas
+	2-Jungl:	TwistedFuker
+	3-Mid:		Oriana
+	4-Adc:		Ez
+	5-Supp:		Brand
+
+
+Team Name:	Patata Team
+	1-Top:		Mundo
+	2-Jungl:	Poppy
+	3-Mid:		Casiopeilla
+	4-Adc:		Rengar
+	5-Supp:		LaRoca
+
+

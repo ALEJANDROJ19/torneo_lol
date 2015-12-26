@@ -1,0 +1,32 @@
+Team Name:	Sugoi Team
+	1-Top:		YouCantKillZilean
+	2-Jungl:	Mundo
+	3-Mid:		Twich.tv
+	4-Adc:		Radixan
+	5-Supp:		SeñorTryndamereDueñodeRito
+
+
+Team Name:	Sugus Team
+	1-Top:		Ahri
+	2-Jungl:	Quine
+	3-Mid:		Singed
+	4-Adc:		Cho'gat
+	5-Supp:		Tresh
+
+
+Team Name:	Sandia Team
+	1-Top:		Xeraz
+	2-Jungl:	Zira
+	3-Mid:		Sindra
+	4-Adc:		Nami
+	5-Supp:		ArboldeNavidad
+
+
+Team Name:	Patata Team
+	1-Top:		Diana
+	2-Jungl:	JonaCondosPistolas
+	3-Mid:		Nazus
+	4-Adc:		Tejon
+	5-Supp:		Anivia
+
+

@@ -1,0 +1,32 @@
+Team Name:	Sugoi Team
+	1-Top:		Aroz
+	2-Jungl:	Warwik
+	3-Mid:		Lulu
+	4-Adc:		Lisandra
+	5-Supp:		Zira
+
+
+Team Name:	Sugus Team
+	1-Top:		Shivana
+	2-Jungl:	Tresh
+	3-Mid:		FidelCastro
+	4-Adc:		Corky
+	5-Supp:		Swag(Vi)
+
+
+Team Name:	Sandia Team
+	1-Top:		MaestroPenta
+	2-Jungl:	Tejon
+	3-Mid:		SeñorTryndamereDueñodeRito
+	4-Adc:		Caballo
+	5-Supp:		OlafKAse
+
+
+Team Name:	Patata Team
+	1-Top:		Swain
+	2-Jungl:	Wukong
+	3-Mid:		Darius
+	4-Adc:		La loca de los cohetes
+	5-Supp:		Sejuana
+
+
